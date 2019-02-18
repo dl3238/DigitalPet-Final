@@ -1,0 +1,20 @@
+.container {
+	margin: 10px auto;
+	overflow: auto;
+	text-align: center;
+	width: 600px;
+}
+img { width:245px;
+  height:245px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+ }
+
+button {
+	background: rgb(199, 21, 236);
+	border: 2px solid #333;
+	border-radius: 4px;
+	cursor: pointer;
+	padding: 6px 14px;
+  color: white;
+}
